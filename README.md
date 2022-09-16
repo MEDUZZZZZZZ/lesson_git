@@ -1,1 +1,1 @@
-# lesson_git
+My own git rep
